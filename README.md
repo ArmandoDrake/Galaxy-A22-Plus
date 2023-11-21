@@ -1,5 +1,5 @@
 # Galaxy A22 Plus
-The ultimate module for add & unlock many features in your Galaxy A22.
+The ultimate module to add & unlock many features in your Galaxy A22.
 
 # Features
 • High-end animations in OneUI Home
