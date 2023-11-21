@@ -2,8 +2,10 @@
 The ultimate module to add & unlock many features in your Galaxy A22.
 
 # Features
-• High-end animations in OneUI Home 
-• Performance modes (Enhanced CPU responsiveness and processing) 
+• High-end animations in OneUI Home
+
+• Performance modes (Enhanced CPU responsiveness and processing)
+
 • Screen recorder
 
 • Edge lighting (Notification & AOD)
