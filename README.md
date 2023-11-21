@@ -51,6 +51,9 @@ After installing, reboot your device and changes will be applied.
 # Credits
 
 • ArmDrake - Improving module and adding more features
+
 • adsk-dev - Original module and original idea
+
 • Pritam - Improving module and adding more features
+
 • Spencer_D - raw support for Galaxy A22
