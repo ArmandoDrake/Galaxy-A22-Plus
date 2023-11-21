@@ -22,7 +22,7 @@ The ultimate module to add & unlock many features in your Galaxy A22.
 - Magisk v20.4 +
 ## Download
 - [Download (Google Drive)](https://drive.google.com/file/d/1jsbFOGOUsZjhFBewroXh3Oi-jPMb3FCp/view?usp=sharing)
-- [Download (MediaFire)](https://www.mediafire.com/file/3mbzo7fp5q10uc6/GalaxyA22-Plus_v1.0.zip/file)
+- [Download (MediaFire)](https://www.mediafire.com/file/j5e710bnd03iza7/GalaxyA22-Plus_latest.zip/file)
 ## How to install
 - Make sure that any other Feature Unlocker installed is removed or disabled, to avoid conflicts with other modules.
 
