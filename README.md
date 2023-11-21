@@ -31,7 +31,8 @@ The ultimate module to add & unlock many features in your Galaxy A22.
 Download and flash the ZIP file in Magisk > Modules > Install from storage.
  Go to Internal Storage > Download > Pick the downloaded module, wait module finishes to install.
  After installing, reboot your device and changes will be applied.
-
+##
+[Download](https://drive.google.com/drive/folders/1L8rl6gkutKR7beqKdbwZiPn9LdNtrg5h?usp=drive_link)
 ## Credits
 - ArmDrake - Improving module and adding more features
 - adsk-dev - Original module and original idea
