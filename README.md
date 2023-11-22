@@ -1,5 +1,5 @@
 # Galaxy A22 Plus
-The ultimate module to add & unlock many features in your Galaxy A22.
+The ultimate module to unlock many features in your Galaxy A22.
 ## Features
 - High-end animations in OneUI Home
 - Performance modes (Enhanced CPU responsiveness and processing)
@@ -13,14 +13,13 @@ The ultimate module to add & unlock many features in your Galaxy A22.
 - RAW Support (Camera2API) - Google Camera Ports Compability
 - Fun Mode - Snapchat AR Masks in Camera
 - Full Photo Editor (with color mixer & object / reflection / shadow removal)
-## Broken Features (will be removed next update)
-- Extra brightness (Increasing the brightness won't make the screen brighter with the option activated)
+- Extra Brightness (broken, will remove soon)
 ## Requirements:
 - Galaxy A22 4G (SM-A225F / SM-A225M)
 - Bootloader unlocked
 - Android 13 (OneUI 5.1)
 - Magisk v20.4 +
-## Download
+## Downloads
 - [Download (Google Drive)](https://drive.google.com/file/d/11F9zgVTPomZbdDDxEYe-2Q6n-V7GOqlg/view?usp=drivesdk)
 - [Download (MediaFire)](https://www.mediafire.com/file/o2t7hil2o0bl4iy/GalaxyA22Plus_v1.0.zip/file)
 ## How to install
@@ -32,7 +31,7 @@ Go to Internal Storage > Download > Pick the downloaded module, wait module fini
 
 After installing, reboot your device and changes will be applied.
 ## Credits
-- ArmDrake - Improving module and adding more features
-- adsk-dev - Original module and original idea
-- Pritam - Improving module and adding more features
-- Spencer_D - raw support for Galaxy A22
+- ArmDrake  - New module & more features
+- adsk-dev  - Original module
+- Pritam    - Improving module & Adding more features
+- Spencer_D - RAW Camera Support
