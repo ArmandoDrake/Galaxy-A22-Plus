@@ -25,8 +25,8 @@ The ultimate module to unlock many features in your Galaxy A22.
 - Android 13 (Samsung OneUI 5.1)
 - Magisk v20.4 +
 ## Downloads
-- [Download (Google Drive)](https://drive.google.com/file/d/1vu0GokOxZ-RPJ14BaVcGjcPO_7-PCZP3/view?usp=sharing) (v1.1)
-- [Download (MediaFire)](https://www.mediafire.com/file/o2t7hil2o0bl4iy/GalaxyA22Plus_v1.0.zip/file) (v1.0)
+- [Download (Google Drive)](https://drive.google.com/file/d/1yu6Ugg2gAPOKMB301nCk7Ru8a5dR-Ods/view?usp=sharing) (v1.1)
+- [Download (MediaFire)](https://www.mediafire.com/file/8gpn6dftwus4pit/GalaxyA22-Plus_v1.1.zip/file) (v1.1)
 ## How to install
 - Make sure that any other Feature Unlocker installed is removed or disabled, to avoid conflicts with other modules.
 
