@@ -17,6 +17,8 @@ The ultimate module to unlock many features in your Galaxy A22.
 - Easy Mode
 ## Broken features (not included)
 - Extra Brightness (The screen brightness will not bright even more than its limit)
+## Optional adjustments
+- If your Galaxy A22 4G is model SM-A225F, edit the floating_feature.xml in /data/adb/modules/GalaxyA22-Plus/system/etc/ and search the next line <SEC_FLOATING_FEATURE_SETTINGS_CONFIG_FCC_ID> and change it's value to "A3LSMA225F".
 ## Requirements:
 - Galaxy A22 4G (SM-A225F/SM-A225M)
 - Bootloader unlocked
